@@ -3,8 +3,7 @@
 
 <h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a versatile Professional Front-End Developer</h4>
 
--  I'm Currently Lerning Mern Stack & AI.📝
--  Love to build responsive and interactive.💥
+-  Love to build responsive and interactive.📝
 -  Looking For to collaborate on Frontend Projects.💬
 -  Fun Fact:
    Cricket, Gaming & Learning New Technologies.⚡
