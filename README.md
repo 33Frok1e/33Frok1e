@@ -5,6 +5,7 @@
 
 -  Love to build responsive and interactive.📝
 -  Looking For to collaborate on Frontend Projects.💬
+-  Learning Backend ASP.NET.📝
 -  Fun Fact:
    Cricket, Gaming & Learning New Technologies.⚡
 
