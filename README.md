@@ -14,7 +14,7 @@
 ## 🌐Socials:
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rati-krishna-moharana-40b19627a)   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Papuni737701573?t=pU7WwtErtSeJVXrbOQ1P2A&s=09)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frok1e_88?igsh=OGQ5ZDc2ODk2ZA==)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rati-krishna-moharana-40b19627a)   [![X](https://x.com/Krishna_Rati?t=OBE1cytFGI5WDmjhHps8ow&s=03)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frok1e_88?igsh=OGQ5ZDc2ODk2ZA==)
 
 ## 💻Tech Stack:
 
