@@ -1,11 +1,11 @@
 ## 🎓About Me:
 
 
-<h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a versatile Professional Front-End Developer</h4>
+<h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a versatile Professional FullStack Developer</h4>
 
 -  Love to build responsive and interactive.📝
--  Looking For to collaborate on Frontend Projects.💬
--  Learning Backend ASP.NET.📝
+-  Looking For to collaborate on FullStack Projects.💬
+-  Developing Products.📝
 -  Fun Fact:
    Cricket, Gaming & Learning New Technologies.⚡
 
