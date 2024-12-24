@@ -6,8 +6,6 @@
 -  Love to build responsive and interactive.📝
 -  Looking For to collaborate on FullStack Projects.💬
 -  Developing Products.📝
--  Fun Fact:
-   Cricket, Gaming & Learning New Technologies.⚡
 
 <h4 align="left">Feel free to connect via email at "<a href="mailto:mratikrishna@gmail.com">mratikrishna@gmail.com</a>". Let's Collaborate and create something amazing!😊🚀</h4>
 
