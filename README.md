@@ -4,7 +4,7 @@
 
 <h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a FullStack Developer</h4>
 
-🌱 I’m currently learning **AI/ML**
+🌱 I’m currently learning **Web3**
 
 💬 Ask me about **Javascript, React, C#**
 
