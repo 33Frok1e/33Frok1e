@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33frok1e&label=Profile%20views&color=0e75b6&style=flat" alt="33frok1e" /> </p>
 
-<h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a FullStack Develope</h4>
+<h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a FullStack Developer</h4>
 
 🌱 I’m currently learning **Web3**
 
