@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33frok1e&label=Profile%20views&color=0e75b6&style=flat" alt="33frok1e" /> </p>
 
-<h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a FullStack Developer</h4>
+<h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a FullStack Develope</h4>
 
 🌱 I’m currently learning **Web3**
 
@@ -26,7 +26,6 @@
 
 ## 📊GitHub Stats:
 
-<!-- <a href="https://github.com/33Frok1e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=33Frok1e&show_icons=true&bg_color=dark"> -->
 ![Ratikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=33Frok1e&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=33Frok1e&theme=dark&hide_border=true)](https://git.io/streak-stats)
